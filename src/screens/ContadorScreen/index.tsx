@@ -1,8 +1,6 @@
 import React, { useState } from "react"
 import { Text, View } from "react-native"
-import { Fab } from "../components/Fab"
-// import { FabLeft } from "../components/Fab/FabLeft"
-// import { FabRight } from "../components/Fab/FabRight"
+import { Fab } from "../../components/Fab"
 import { styles } from "./styles"
 
 export const ContadorScreen = () => {
